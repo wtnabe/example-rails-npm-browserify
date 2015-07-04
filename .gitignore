@@ -8,6 +8,7 @@
 /.bundle
 /vendor
 node_modules
+app/assets/javascripts/bundle.js
 
 # Ignore all logfiles and tempfiles.
 /log/*
