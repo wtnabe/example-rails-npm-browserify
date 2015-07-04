@@ -1,9 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Thank you so much 
 
-Things you may want to cover:
+ * [Deploy Rails app with browserify-rails to Heroku | Ryo Chikazawa](http://ryochikazawa.com/2015/01/30/heroku-with-browserify-rails.html)
+ * [browserify-rails/browserify-rails](https://github.com/browserify-rails/browserify-rails)
 
 * Ruby version
 
